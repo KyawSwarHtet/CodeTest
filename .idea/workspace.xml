@@ -7,6 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0065051-71c6-4547-b3bd-ff0151fc45bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/TicTacToeApp/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/TicTacToeApp/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/TicTacToeApp/.idea/compiler.xml" afterDir="false" />
@@ -83,6 +84,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$PROJECT_DIR$/../Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/RoomFirebaseDatabase" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RecentsManager">
@@ -94,9 +96,7 @@
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
+      <method v="2" />
     </configuration>
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="RoomAndFirebaseDB.app" />
@@ -151,9 +151,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
       <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
+      <method v="2" />
     </configuration>
   </component>
   <component name="SvnConfiguration">
@@ -174,10 +172,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="526" y="122" key="AndroidCreateResourceFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1611837134117" />
-    <state x="688" y="119" key="FileChooserDialogImpl" timestamp="1611905074219">
+    <state x="688" y="119" key="FileChooserDialogImpl" timestamp="1611905378018">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="688" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1611905074219" />
+    <state x="688" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1611905378018" />
     <state x="684" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1611838361278">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
